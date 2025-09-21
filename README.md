@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hello@karinasaini.me**
 
-- 📄 Know about my experiences https://www.canva.com/design/DAGzluhCXFQ/Cn6nWGxJpEjeTtgx4vQsXg/view?utm_content=DAGzluhCXFQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha64c8f0ff1
+- 📄 Know about my experiences  https://drive.google.com/file/d/1_q1eCOl92CzI32bVckI32p7mVCIk479I/view
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karina-saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karina-saini" height="30" width="40" /></a>
